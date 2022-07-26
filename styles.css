@@ -1,0 +1,28 @@
+﻿#gameDiv {
+    font-family: Arial, sans-serf;
+    border: 3 px solid;
+    border-radius: 25 px;
+    padding: 10 px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.choiceBtn {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 30 px;
+    width: 150 px;
+    border-radius: 25 px;
+    color: red;
+}
+
+#playerText {
+    color: blue
+}
+
+#computerText {
+    color: Orange
+}
+
+#resultText {
+    color: Black;
+}
