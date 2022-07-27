@@ -3,7 +3,7 @@
     border: 3 px solid;
     border-radius: 25 px;
     padding: 10 px;
-    background-color: lightblue;
+    background-image: linear-gradient(#33ccff,#ff9999);
     text-align: center;
 }
 
@@ -16,13 +16,14 @@
 }
 
 #playerText {
-    color: blue
+    color: #ff9999;
 }
 
 #computerText {
-    color: Orange
+    color: black;
+    ;
 }
 
 #resultText {
-    color: Black;
+    color: #33ccff;
 }
